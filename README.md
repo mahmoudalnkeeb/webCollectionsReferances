@@ -22,7 +22,7 @@ Contributors names and contact info
 
 ## License
 
-This project is Created by [The praise] TEAM Anyone can use it to find the bset tools for his Project
+This project is Created by [The praise] TEAM Anyone can use it to find the best tools for his Project
 
 ## Contributors
 
